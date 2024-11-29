@@ -13,3 +13,13 @@ Este projeto contém uma função JavaScript para sortear números sem repetiç�
 ### Como usar
 1. Acesse a pasta `sorteador-numeros`.
 2. Execute o arquivo `index.html` para ver o sorteio em ação.
+<br>
+<img align="center" src="./sorteador-numeros/img/capa.jpg" height="180">
+
+
+</br>
+</br>
+
+
+##
+
