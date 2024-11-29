@@ -21,5 +21,20 @@ Este projeto contém uma função JavaScript para sortear números sem repetiç�
 </br>
 
 
-##
+## Projeto AluGames
+
+Este projeto contém lógica em JavaScript. Confira a implementação no diretório abaixo:
+
+- [alugames](./alugames/)
+
+### Como usar
+1. Acesse a pasta `alugames`.
+2. Execute o arquivo `index.html` para ver o exercício.
+</br>
+<img align="center" src="./alugames/img/capa.jpg" height="180">
+
+
+</br>
+</br>
+
 
