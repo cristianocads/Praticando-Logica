@@ -36,6 +36,20 @@ Este projeto contém lógica em JavaScript. Confira a implementação no diretó
 
 </br>
 </br>
-</br>
 
+## Projeto Carrinho de compras
+
+Este projeto contém lógica em JavaScript. Confira a implementação no diretório abaixo:
+
+- [carrinho-compras](./carrinho-compras/)
+
+### Como usar
+1. Acesse a pasta `carrinho-compras`.
+2. Execute o arquivo `index.html` para ver o exercício.
+</br>
+<img align="center" src="./carrinho-compras/assets/Carrinho de compras.png" height="180">
+
+
+</br>
+</br>
 
