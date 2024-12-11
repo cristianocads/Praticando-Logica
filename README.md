@@ -53,3 +53,18 @@ Este projeto contém lógica em JavaScript. Confira a implementação no diretó
 </br>
 </br>
 
+## Projeto Ingresso
+
+Este projeto contém lógica em JavaScript. Confira a implementação no diretório abaixo:
+
+- [ingresso](./ingresso/)
+
+### Como usar
+1. Acesse a pasta `ingresso`.
+2. Execute o arquivo `index.html` para ver o exercício.
+</br>
+<img align="center" src="./ingresso/assets/e-Ticket.png" height="180">
+
+
+</br>
+</br>
