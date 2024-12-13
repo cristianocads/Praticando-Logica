@@ -68,3 +68,18 @@ Este projeto contém lógica em JavaScript. Confira a implementação no diretó
 
 </br>
 </br>
+
+## Projeto Amigo Secreto
+
+Este projeto contém lógica em JavaScript. Confira a implementação no diretório abaixo:
+
+- [amigo-secreto](./amigo-secreto/)
+
+### Como usar
+1. Acesse a pasta `amigo-secreto`.
+2. Execute o arquivo `index.html` para ver o exercício.
+</br>
+<img align="center" src="./amigo-secreto/assets/Amigo Secreto.png" height="180">
+
+</br>
+</br>
